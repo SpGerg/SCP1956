@@ -58,7 +58,7 @@ namespace SCP1956.Commands
                 return true;
             }
 
-            response = "Ты не тот за кого себя выдаёшь! " + player.UserId + " " + Program.Instance.Config.SCP1956UserId;
+            response = "Ты не тот за кого себя выдаёшь!";
 
             return true;
         }

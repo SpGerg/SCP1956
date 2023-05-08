@@ -20,8 +20,6 @@ namespace SCP1956.Handlers
             {
                 player.Scale = new Vector3(1, 0.5f, 1);
                 player.Health = 500;
-
-
             }
         }
     }
